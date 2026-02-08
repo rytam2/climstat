@@ -1,0 +1,1 @@
+Files to compile the full dataset 'daily_aqi_by_county_2016-2025.csv' are in /data/keeling/a/rytam2/a/iema_output/AQI_raw/. No code is available for the compilation as it is done manually. 
