@@ -13,4 +13,8 @@ This repository contains all notebooks and code to access and extract variables 
 - Tornadoes (Events, Impacts)
 - Air Quality Index  
 
-If you require additional statistics or other climate metrics not listed above, please reach out to Rachel Tam (rytam2@illinois.edu). 
+**If you require additional statistics or other climate metrics not listed above, please reach out to Rachel Tam (rytam2@illinois.edu). 
+
+Notes: 
+Function of calculations of all climate metrics lie in ERA5_functions.py (in done/). 
+Statistics of each climate metric, serving as intermediate products, are calculated in an individual jupyter notebook (in done/).
